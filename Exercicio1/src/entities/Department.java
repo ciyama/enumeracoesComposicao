@@ -9,7 +9,6 @@ public class Department {
 		}
 
 		public Department(String name) {
-			super();
 			this.name = name;
 		}
 
